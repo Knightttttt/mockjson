@@ -48,35 +48,5 @@
         "timeStamp":1658237783,
         "subName":"Physics",
         "chapName":"Basic Concepts of Physics"
-    },
-    {
-        "v_f_id":6,
-        "stud_id":4,
-        "video_id": 2,
-        "v_watch":23,
-        "bufferCount":1, 
-        "timeStamp":1658237783,
-        "subName":"Physics",
-        "chapName":"Basic Concepts of Physics"
-    },
-    {
-        "v_f_id":7,
-        "stud_id":4,
-        "video_id": 2,
-        "v_watch":23,
-        "bufferCount":1, 
-        "timeStamp":1658237783,
-        "subName":"Physics",
-        "chapName":"Basic Concepts of Physics"
-    },
-    {
-        "v_f_id":8,
-        "stud_id":4,
-        "video_id": 2,
-        "v_watch":23,
-        "bufferCount":1, 
-        "timeStamp":1658237783,
-        "subName":"Physics",
-        "chapName":"Basic Concepts of Physics"
     }
 ]
